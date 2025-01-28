@@ -105,12 +105,6 @@ export default function Home() {
                     <ShinyButton type="submit" className="mt-2 font-mono ">
                         vào ngay
                     </ShinyButton>
-                    <div
-                        className="cf-turnstile mt-2"
-                        data-sitekey="0x4AAAAAAA6jRcMucRPkHiPv"
-                        data-callback="javascriptCallback"
-                        data-theme="light"
-                    ></div>
                 </form>
             </motion.div>
         </>

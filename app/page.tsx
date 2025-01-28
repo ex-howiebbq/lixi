@@ -107,7 +107,7 @@ export default function Home() {
                     </ShinyButton>
                     <div
                         className="cf-turnstile mt-2"
-                        data-sitekey="0x4AAAAAAA6jP-N0AaC9V5gE"
+                        data-sitekey="0x4AAAAAAA6jRcMucRPkHiPv"
                         data-callback="javascriptCallback"
                         data-theme="light"
                     ></div>
